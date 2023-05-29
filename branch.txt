@@ -1,0 +1,2 @@
+hello this is likitha
+currently learning git course and created this file inorder to see whether changes done in one file comes into other or not
